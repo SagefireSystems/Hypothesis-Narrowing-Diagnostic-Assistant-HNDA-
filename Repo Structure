@@ -1,0 +1,16 @@
+hnda/
+├─ README.md
+├─ LICENSE
+├─ CONTRIBUTING.md
+├─ CODE_OF_CONDUCT.md
+├─ SECURITY.md
+├─ prompts/
+│  ├─ system_prompt.md
+│  └─ example_sessions.md
+├─ docs/
+│  ├─ philosophy.md
+│  ├─ operators.md
+│  ├─ output_contract.md
+│  └─ limitations.md
+└─ assets/
+   └─ logo.png   (optional)
